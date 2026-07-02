@@ -1,0 +1,17 @@
+[project]
+name = "linear-analytica"
+version = "1.0.0"
+description = "Linear Analytica — structural cipher decoder for Minoan Linear A"
+requires-python = ">=3.11"
+license = {text = "Unlicense"}
+dependencies = []
+
+[tool.uv.sources]
+linear-a-engine = { path = "../lang/linear-a-engine", editable = true }
+
+[project.scripts]
+la = "linear_analytica.cli:main"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
