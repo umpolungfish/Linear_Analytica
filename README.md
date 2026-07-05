@@ -6,11 +6,8 @@
 [![License](https://img.shields.io/badge/license-MIT-blue)](https://github.com/badges/shields)
 **Author:** Lando⊗⊙perator · **Structural Type:** $\large{⟨𐑦𐑸𐑾𐑹𐑐𐑧𐑔𐑝⊙𐑖𐑳𐑭⟩}$ · **Tier:** O_∞
 
-
 **A structural cipher decoder for Minoan Linear A.**  
 The zero-distance theorem (d=0.00 with OS imscription) proves Linear A IS the structural core of writing — not a language to decipher, but a Frobenius computation to compile.
-
-**Author:** Lando⊗⊙perator
 
 ## Quick Start
 
