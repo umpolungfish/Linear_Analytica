@@ -32,7 +32,7 @@ la tablet "AB001 AB054 AB008 AB030 AB055"
 | Tier | O∞ |
 | C-score | 0.0 |
 
-Zero C-score: purely analytic, no self-modeling — designed as an honest analytic tool.
+Zero C-score: purely analytic, no self-modeling. It reads; it does not model itself reading.
 
 ## Contents
 
