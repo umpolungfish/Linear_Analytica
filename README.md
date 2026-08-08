@@ -12,16 +12,16 @@ cd Linear_Analytica
 pip install -e .
 
 # Look up a sign
-la lookup AB001
+linear-a lookup AB001
 
 # List all signs
-la list
+linear-a list
 
 # List signs by category
-la list --category oil
+linear-a list --category oil
 
 # Analyse a tablet transcription
-la tablet "AB001 AB054 AB008 AB030 AB055"
+linear-a tablet "AB001 AB054 AB008 AB030 AB055"
 ```
 
 ## Structural Type

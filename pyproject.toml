@@ -10,7 +10,7 @@ dependencies = []
 linear-a-engine = { path = "../lang/linear-a-engine", editable = true }
 
 [project.scripts]
-la = "linear_analytica.cli:main"
+linear-a = "linear_analytica.cli:main"
 
 [build-system]
 requires = ["hatchling"]
